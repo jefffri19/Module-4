@@ -30,9 +30,12 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
-Add Code here
+<img width="827" height="577" alt="image" src="https://github.com/user-attachments/assets/1cce4163-1d95-40b2-89c7-254907b8ac22" />
 
 ## Sample Output
+<img width="872" height="248" alt="image" src="https://github.com/user-attachments/assets/2db5843f-6abd-4b57-a59e-076e7f627a3b" />
 
 ## Result
+Thus, the above asked program is encoded and excecuted.
+
 
